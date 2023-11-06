@@ -371,3 +371,33 @@ document.write(a+b);*/
 // function abc(){
 //     document.getElementById("head").style.color="red";
 // }
+
+
+
+
+
+
+
+
+
+
+
+// var a = new Date('2012 6 march');
+// // a.setFullYear(2020);
+// // document.write(a.getMonth());
+
+// var element;
+// element=document.getElementById("head").innerText;
+// console.log(element);
+
+// var element;
+// document.querySelector(".head").className="abc";
+// element=document.querySelector(".head").className;
+// // element=document.querySelector('.head').style.backgroundColor;
+// console.log(element);
+
+// document.getElementById("head").onclick=abc;
+
+// function abc(){
+//     document.getElementById("head").style.color="red";
+// }
